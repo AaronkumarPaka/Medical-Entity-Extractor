@@ -1,0 +1,51 @@
+Medical Entity Extraction Dummy Dataset
+
+Record 1 PATIENT_NAME: Rajesh Sharma AGE: 45 GENDER: Male DATE:
+2026-03-11 SYMPTOMS: Fever, cough DIAGNOSIS: Viral Infection MEDICATION:
+Paracetamol 500mg DOSAGE: As prescribed by doctor DOCTOR: Dr. Anil Mehta
+HOSPITAL: Mumbai General Hospital
+
+Record 2 PATIENT_NAME: Priya Nair AGE: 32 GENDER: Female DATE:
+2026-03-12 SYMPTOMS: Headache, nausea DIAGNOSIS: Migraine MEDICATION:
+Sumatriptan 50mg DOSAGE: As prescribed by doctor DOCTOR: Dr. Kavita Rao
+HOSPITAL: Mumbai General Hospital
+
+Record 3 PATIENT_NAME: Imran Khan AGE: 60 GENDER: Male DATE: 2026-03-13
+SYMPTOMS: Chest pain, breathlessness DIAGNOSIS: Hypertension MEDICATION:
+Amlodipine 5mg DOSAGE: As prescribed by doctor DOCTOR: Dr. R Deshpande
+HOSPITAL: Mumbai General Hospital
+
+Record 4 PATIENT_NAME: Sneha Patil AGE: 27 GENDER: Female DATE:
+2026-03-14 SYMPTOMS: Sore throat, fever DIAGNOSIS: Tonsillitis
+MEDICATION: Amoxicillin 500mg DOSAGE: As prescribed by doctor DOCTOR:
+Dr. Neha Kulkarni HOSPITAL: Mumbai General Hospital
+
+Record 5 PATIENT_NAME: Arjun Verma AGE: 38 GENDER: Male DATE: 2026-03-15
+SYMPTOMS: High fever, chills DIAGNOSIS: Malaria MEDICATION: Artemether
+DOSAGE: As prescribed by doctor DOCTOR: Dr. S Gupta HOSPITAL: Mumbai
+General Hospital
+
+Record 6 PATIENT_NAME: Meera Iyer AGE: 41 GENDER: Female DATE:
+2026-03-16 SYMPTOMS: Fatigue, weight gain DIAGNOSIS: Hypothyroidism
+MEDICATION: Levothyroxine 75mcg DOSAGE: As prescribed by doctor DOCTOR:
+Dr. A Raman HOSPITAL: Mumbai General Hospital
+
+Record 7 PATIENT_NAME: Rohit Singh AGE: 29 GENDER: Male DATE: 2026-03-17
+SYMPTOMS: Cough, fever DIAGNOSIS: Bronchitis MEDICATION: Azithromycin
+250mg DOSAGE: As prescribed by doctor DOCTOR: Dr. P Sharma HOSPITAL:
+Mumbai General Hospital
+
+Record 8 PATIENT_NAME: Anjali Desai AGE: 35 GENDER: Female DATE:
+2026-03-18 SYMPTOMS: Stomach pain, vomiting DIAGNOSIS: Gastritis
+MEDICATION: Pantoprazole 40mg DOSAGE: As prescribed by doctor DOCTOR:
+Dr. K Shah HOSPITAL: Mumbai General Hospital
+
+Record 9 PATIENT_NAME: Vikram Joshi AGE: 52 GENDER: Male DATE:
+2026-03-19 SYMPTOMS: Joint pain DIAGNOSIS: Arthritis MEDICATION:
+Ibuprofen 400mg DOSAGE: As prescribed by doctor DOCTOR: Dr. M Bhat
+HOSPITAL: Mumbai General Hospital
+
+Record 10 PATIENT_NAME: Farhan Ali AGE: 47 GENDER: Male DATE: 2026-03-20
+SYMPTOMS: Frequent urination, thirst DIAGNOSIS: Diabetes MEDICATION:
+Metformin 500mg DOSAGE: As prescribed by doctor DOCTOR: Dr. T Khan
+HOSPITAL: Mumbai General Hospital
